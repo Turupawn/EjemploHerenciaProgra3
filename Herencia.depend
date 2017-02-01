@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1485951499 source:/home/turupawn/Clases/progra3/Herencia/Administrador.cpp
+	"Administrador.h"
+
+1485951543 /home/turupawn/Clases/progra3/Herencia/Administrador.h
+	"Usuario.h"
+
+1485951562 /home/turupawn/Clases/progra3/Herencia/Usuario.h
+	<iostream>
+
+1485951461 source:/home/turupawn/Clases/progra3/Herencia/Normal.cpp
+	"Normal.h"
+
+1485951566 /home/turupawn/Clases/progra3/Herencia/Normal.h
+	"Usuario.h"
+
+1485951398 source:/home/turupawn/Clases/progra3/Herencia/Usuario.cpp
+	"Usuario.h"
+
+1485951655 source:/home/turupawn/Clases/progra3/Herencia/main.cpp
+	<iostream>
+	"Usuario.h"
+	"Normal.h"
+	"Administrador.h"
+
